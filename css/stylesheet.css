@@ -1,0 +1,183 @@
+
+
+#link_verde{
+    color: #25A342;
+}
+.navbar{
+    background-color: #34393f;
+}
+
+.navbar-brand img{
+    max-width: 100px;
+}
+
+.carousel img{
+    filter: brightness(50%)
+}
+.carousel-caption {
+    margin-left: 35%;
+    width: 40%;
+    top: 40%;
+
+}
+
+
+
+.text-oradores{
+    text-align: center;
+    font-size: 11px;
+    margin-top: 10px;
+}
+
+.container h4{
+    margin-top: -10px;
+    text-align: center;
+}
+
+#oradores{
+    margin-bottom: 30px;
+    width: 75%;
+}
+
+.btn-xs{
+    padding: 1px 5px !important;
+    font-size: 12px !important;
+    line-height: 1.5 !important;
+    border-radius: 3px !important;
+    font-weight: 700 !important;
+}
+
+.card-text{
+    font-size: small;
+    line-height: 20pt !important;
+}
+
+
+#hawaii{
+    padding-left: 0;
+    background-color: #34393f;
+}
+
+.imghawaii{
+        object-fit:fill;
+        width:100%;
+        height:100%;
+}
+
+.texto{
+    
+    font-size: 10pt;
+    line-height: 18pt;
+    color: white;
+    margin-top:15px;
+    margin-left: 5px;
+}
+
+.text-oradores2{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 10pt;
+    
+}
+
+span{
+    text-decoration: underline dotted;
+}
+
+textarea::placeholder {
+    font-size: 20px;
+}
+
+#btn_enviar{
+    background-color: #96C93E !important;
+    border-color: #96C93E !important;
+    font-size: large !important;
+}
+
+footer{
+    height: 100px;
+    background: rgb(27,55,67);
+    background: radial-gradient(circle, rgba(27,55,67,1) 0%, rgba(29,82,113,1) 100%);
+}
+
+footer ul{
+    list-style-type: none;
+  text-align: center
+}
+
+footer li{
+     margin-top: 40px !important;  
+     padding-left: 50px !important; 
+}
+
+footer li a {
+   
+    color: white;
+    font-weight: 450;
+    font-size: 12pt;
+  text-decoration: none;
+}
+
+.card-cate{
+ margin-top: 20px;
+ border-radius: 0 !important;
+
+}
+.card-cate h4{
+    font-size: 14pt;
+    margin-top: 5px;
+   }
+
+.porcentaje{
+    font-weight: 700;
+}
+
+.small-text{
+    color: grey;
+    font-size: 12px;
+    margin-bottom: 0px;
+}
+
+#estudiante{
+    border-color: rgba(13, 115, 248, 0.897) !important;
+}
+
+#trainee{
+    border-color: rgba(35, 129, 253, 0.945) !important;
+
+}
+
+#junior{
+    border-color: rgba(255, 217, 0, 0.952) !important;
+
+}
+
+.text-venta{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 12pt;
+}
+
+.venta h3{
+    text-align: center;
+    margin-top: -15px;
+    font-size: 24pt;
+}
+
+.venta .row{
+    margin-top: 15px;
+    
+}
+
+.total{
+    background-color: lightblue !important;
+    padding: 12px !important;
+    color: rgb(17, 17, 151) !important;
+
+}
+
+.btn-info{
+    background-color: #96C93E !important;
+    border-color: #96C93E !important;
+    color: white !important;
+}
